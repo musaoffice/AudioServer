@@ -1,5 +1,9 @@
 [
     {
+        "SongName": "0",
+        "SongURL": "https://raw.githubusercontent.com/musaoffice/AudioServer/main/uploads/0.ogg"
+    },
+    {
         "SongName": "1",
         "SongURL": "https://raw.githubusercontent.com/musaoffice/AudioServer/main/uploads/1.ogg"
     },
@@ -3994,5 +3998,5 @@
     {
         "SongName": "999",
         "SongURL": "https://raw.githubusercontent.com/musaoffice/AudioServer/main/uploads/999.ogg"
-    }   
+    }
 ]
